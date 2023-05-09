@@ -1,0 +1,29 @@
+header {
+    border: 1px solid red;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+main {
+    border: 1px solid green;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+footer {
+    border: 1px solid blue;
+    padding: 0.5em;
+    margin: 0.5em;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+table, th, td{
+    border: 1px solid lightblue;
+    border-collapse: collapse;
+}
+
